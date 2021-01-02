@@ -1,2 +1,3 @@
 b1 to validate the conflict with master
 created a file to validate the conflicts in master 2
+Let us attempt to merge to master
