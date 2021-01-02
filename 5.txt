@@ -1,0 +1,1 @@
+created a file to validate the conflicts in master 2
